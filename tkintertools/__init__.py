@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This file is part of tkintertools.
-# https://github.com/someuser/somepackage
+# https://github.com/Jovascript/TkinterTools
 
 # Licensed under the MIT license:
 # http://www.opensource.org/licenses/MIT-license
