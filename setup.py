@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # This file is part of tkintertools.
-# https://github.com/someuser/somepackage
+# https://github.com/Jovascript/TkinterTools
 
 # Licensed under the MIT license:
 # http://www.opensource.org/licenses/MIT-license
@@ -22,7 +22,7 @@ A set of useful helpers for developing tkinter applications.
     keywords='tkinter ease nootworthy',
     author='Joe',
     author_email='joe.bell34@btinternet.com',
-    url='https://github.com/someuser/somepackage',
+    url='https://github.com/Jovascript/TkinterTools',
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
